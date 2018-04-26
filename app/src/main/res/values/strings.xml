@@ -3,4 +3,5 @@
     <string name="app_version">v0.0.1</string>
     <string name="hello_world">Ask Culinar..</string>
     <string name="desc_header">desc_header</string>
+    <string name="order">Order</string>
 </resources>
